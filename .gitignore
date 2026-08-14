@@ -1,0 +1,21 @@
+# Private Text Shortcuts data - NEVER publish.
+# Expansions can hold signatures, passwords and tokens. The live store belongs
+# under %LOCALAPPDATA%\TextShortcuts, not in the repo folder.
+shortcuts.json
+shortcuts.dat
+
+# Claude Code local settings / worktrees - machine-specific, not source.
+.claude/settings.local.json
+.claude/worktrees/
+
+# Build output
+bin/
+obj/
+*.exe
+
+# Editor / OS noise
+.vs/
+*.suo
+*.user
+Thumbs.db
+desktop.ini
