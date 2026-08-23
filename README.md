@@ -14,7 +14,7 @@ Examples (from the starter `shortcuts.json`):
 | Type this | You get |
 |-----------|---------|
 | `mysig`  | your full email signature |
-| `myem`   | `your email address` |
+| `myem`   | your email address |
 | `myco`   | `Integrated IT Solutions` |
 | `thxx`   | `Thank you,` / `-Carl` |
 | `ddate`  | today's date |
